@@ -49,7 +49,7 @@
 
 ### 系統架構圖
 
-![Software Architecture](docs/architecture.png)
+![Software Architecture](docs\software_architecture.png)
 
 **架構流程說明：**
 1. **用戶互動層**：用戶透過 LINE App 發送訊息
